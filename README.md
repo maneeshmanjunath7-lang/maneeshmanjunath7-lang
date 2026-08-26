@@ -19,11 +19,28 @@ I am an M.Sc. Aerospace Engineering candidate at the Technical University of Mun
 - **TUM EventSat:** Payload-electronics architecture, interfaces, power planning, and verification
 - **TUM Project IDEAL:** Validation workflows for additively manufactured aerospace components
 
-## Featured public project
+## Selected technical projects
+
+### Distributed Satellite Systems — Master’s Thesis *(ongoing)*
+
+**Impact of Central Node Orbital Configuration on Task Allocation in Heterogeneous Distributed Satellite Systems**
+
+Developing a modular Python and TAT-C simulation framework for architecture trade studies and wildfire-response task allocation in Walker constellations. The study evaluates 891 architecture and central-node configurations across communication and observation performance.
+
+- Models priority-aware dissemination, observation opportunities, communication-window capacity, and deadline constraints
+- Evaluates latency, completeness, capacity, robustness, sensitivity, and tasks reaching 100% of satellites before deadline
+- Uses Python, TAT-C, Skyfield, Pandas, NumPy, Matplotlib, JSON campaign configurations, and parallel execution
 
 ### [MetNet-2-Inspired Precipitation Nowcasting](https://github.com/maneeshmanjunath7-lang/metnet2-inspired-nowcasting)
 
-A simplified academic reproduction using PyTorch, ConvLSTM layers, dilated convolutional networks, RADOLAN, IMERG, and ERA5 data. The model uses six historical frames to forecast eight future precipitation frames and is evaluated using CSI, CRPS, and Brier Score.
+**TUM semester thesis | Grade 1.0**
+
+Developed a reduced MetNet-2-inspired deep-learning workflow for short-term precipitation nowcasting.
+
+- Uses six five-minute historical frames to forecast eight future frames, covering a 40-minute prediction horizon
+- Combines PyTorch, ConvLSTM layers, and dilated convolutional networks
+- Includes data pipelines for RADOLAN, GPM IMERG, and ERA5
+- Evaluates forecasts using CSI, CRPS, and Brier Score
 
 ## Tools and technologies
 
