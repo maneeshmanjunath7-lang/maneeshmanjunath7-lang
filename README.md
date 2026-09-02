@@ -82,6 +82,8 @@ The research code and full results are not published here while the thesis is on
 ## Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
+- **2026-09-02:** Hardened public thesis evidence-table preservation across Git and CI checkouts ([CI safeguard](https://github.com/maneeshmanjunath7-lang/Master-Thesis/commit/4736640cf50e69e9a81e17816b022b43f3438470), [byte-preservation update](https://github.com/maneeshmanjunath7-lang/Master-Thesis/commit/1e8916fa739230d598dfdaff5d672170e27c1839)).
+- **2026-09-02:** Updated the public [Master’s thesis report with validated California results](https://github.com/maneeshmanjunath7-lang/Master-Thesis/commit/9050dc3b7dd0f217dc7b775ab0d49629edf7e38a).
 - **2026-08-31:** Created and structured the [TANDEMX 48-hour project](https://github.com/maneeshmanjunath7-lang/TANDEMX-48hours) with reproducibility, data-protection, provenance, and scientific-claims safeguards.
 - **2026-08-11:** Published reported lead-time metrics and documented the recoverable [MetNet-2-inspired nowcasting repository](https://github.com/maneeshmanjunath7-lang/metnet2-inspired-nowcasting).
 <!-- RECENT_ACTIVITY:END -->
